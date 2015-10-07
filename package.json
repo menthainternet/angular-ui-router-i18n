@@ -1,0 +1,14 @@
+{
+  "name": "angular-ui-router-i18n",
+  "version": "0.0.1",
+  "private": true,
+  "main": "i18nUrlMatcherFactory.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menthainternet/angular-ui-router-i18n.git"
+  },
+  "bugs": {
+    "url": "https://github.com/menthainternet/angular-ui-router-i18n/issues"
+  },
+  "homepage": "https://github.com/menthainternet/angular-ui-router-i18n#readme"
+}
